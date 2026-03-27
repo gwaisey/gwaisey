@@ -33,7 +33,7 @@ I'm a Computer Science student at Bina Nusantara University, passionate about cr
 
 ### 📊 GitHub Stats:
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=gwaisey&theme=dark&hide_border=true" width="100%" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gwaisey&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 *“Designing the future, one line of code at a time.”*
