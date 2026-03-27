@@ -1,13 +1,9 @@
 <div align="center">
 
 <!-- Animated Banner using Capsule Render -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Grace!&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,50:c084fc,100:a855f7&height=200&section=header&text=Hi,%20I'm%20Grace!&fontSize=50&fontColor=3b0764&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Grace!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</picture>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Grace!&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-<!-- Typing Animation -->
+<!-- Typing Animation using readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+%40+BINUS+University;Application+Developer+Intern+%40+Polytron;Passionate+about+HCI+%26+UX+Design;Building+seamless+digital+experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
@@ -80,21 +76,10 @@
 
 <div align="center">
 
-<!-- GitHub Streak — dark/light -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gwaisey&theme=default&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
-  <img src="https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
-<br/>
 
-<!-- Top Languages — dark/light -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=default&hide_border=true&title_color=7C3AED"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-</picture>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA)
 
 </div>
 
@@ -104,12 +89,7 @@
 
 <div align="center">
 
-<!-- Snake — dark/light -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gwaisey/gwaisey/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gwaisey/gwaisey/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/gwaisey/gwaisey/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+![Snake animation](https://raw.githubusercontent.com/gwaisey/gwaisey/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -117,12 +97,7 @@
 
 <div align="center">
 
-<!-- Footer — dark/light -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:c084fc,100:e0c3fc&height=120&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-</picture>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 *"Designing the future, one line of code at a time."*
 
