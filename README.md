@@ -72,7 +72,7 @@
 
 ---
 
-📊 GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
 <!-- GitHub Streak — dark/light -->
 <picture>
@@ -89,7 +89,7 @@
 </picture>
 </div>
 
-🐍 Contribution Snake
+### 🐍 Contribution Snake
 <div align="center">
 <!-- Snake — dark/light -->
 <picture>
