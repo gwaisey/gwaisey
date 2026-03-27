@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner using Capsule Render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Grace!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%26%20UI%2FUX%20Designer&descAlignY=58&descSize=20&descColor=a78bfa)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Grace!&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 <!-- Typing Animation using readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+%40+BINUS+University;Application+Developer+Intern+%40+Polytron;Passionate+about+HCI+%26+UX+Design;Building+seamless+digital+experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
