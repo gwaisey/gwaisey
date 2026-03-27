@@ -79,7 +79,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 
-![Top Languages](https://github-stats.as93.net/api/top-langs/?username=gwaisey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA)
 
 </div>
 
