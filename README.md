@@ -72,25 +72,31 @@
 
 ---
 
-### 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
-
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA)
-
+<!-- GitHub Streak — dark/light -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gwaisey&theme=default&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
+  <img src="https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+</picture>
+<br/>
+<!-- Top Languages — dark/light -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=default&hide_border=true&title_color=7C3AED"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
+</picture>
 </div>
 
----
-
-### 🐍 Contribution Snake
-
+🐍 Contribution Snake
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/gwaisey/gwaisey/output/github-contribution-grid-snake-dark.svg)
-
+<!-- Snake — dark/light -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gwaisey/gwaisey/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gwaisey/gwaisey/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/gwaisey/gwaisey/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 </div>
 
 ---
