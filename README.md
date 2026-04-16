@@ -71,6 +71,10 @@
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/neon-%2300E599.svg?style=for-the-badge&logo=neon&logoColor=black)
+![EmailJS](https://img.shields.io/badge/emailjs-%23FF6A00.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
