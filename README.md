@@ -80,15 +80,14 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak — dark/light -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=gwaisey&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
-  <img src="https://streak-stats.demolab.com?user=gwaisey&hide_border=true" alt="GitHub Streak Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gwaisey&theme=default&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
+  <img src="https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 </picture>
+<br/>
 
-</div>
 
 <!-- Top Languages — dark/light -->
 <picture>
