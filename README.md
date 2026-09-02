@@ -89,13 +89,13 @@
 <br/>
 
 
-<!-- Top Languages — dark/light -->
+<!-- Top Languages — dark/light (fixed) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=default&hide_border=true&title_color=7C3AED"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
 </picture>
-</div>
+
 
 ### 🐍 Contribution Snake
 <div align="center">
