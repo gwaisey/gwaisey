@@ -89,8 +89,9 @@
 <br/>
 
 
-<!-- Top Languages — self-hosted, no rate limit -->
-<img src="https://raw.githubusercontent.com/gwaisey/my-github-stats/refs/heads/generated/languages.svg" alt="Top Languages"/>
+<!-- Top Languages — self-hosted, no rate limit, auto dark/light -->
+![Top Languages](https://github.com/gwaisey/my-github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![Top Languages](https://github.com/gwaisey/my-github-stats/blob/generated/languages.svg#gh-light-mode-only)
 </div>
 
 
