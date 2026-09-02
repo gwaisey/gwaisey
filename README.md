@@ -90,7 +90,7 @@
 
 
 <!-- Top Languages — self-hosted, no rate limit -->
-<img src="[https://raw.githubusercontent.com/gwaisey/my-github-stats/generated/languages.svg](https://raw.githubusercontent.com/gwaisey/my-github-stats/refs/heads/generated/languages.svg)" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/gwaisey/my-github-stats/refs/heads/generated/languages.svg" alt="Top Languages"/>
 </div>
 
 
