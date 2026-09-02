@@ -89,13 +89,8 @@
 <br/>
 
 
-<!-- Top Languages — dark/light -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=default&hide_border=true&title_color=7C3AED"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwaisey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-</picture>
+<!-- Top Languages — self-hosted, no rate limit -->
+<img src="https://raw.githubusercontent.com/gwaisey/my-github-stats/main/generated/languages.svg" alt="Top Languages"/>
 </div>
 
 
