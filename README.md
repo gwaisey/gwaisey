@@ -87,9 +87,10 @@
   <img src="https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 </picture>
 <br/>
-
+</div>
 
 #### 💻 Top Languages
+<div align="center">
 <!-- Top Languages — self-hosted, no rate limit, auto dark/light -->
 ![Top Languages](https://github.com/gwaisey/my-github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![Top Languages](https://github.com/gwaisey/my-github-stats/blob/generated/languages.svg#gh-light-mode-only)
