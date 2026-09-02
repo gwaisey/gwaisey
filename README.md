@@ -90,7 +90,7 @@
 
 <br/>
 
-#### 💻 Top Languages
+#### 📚 Top Languages
 <!-- Top Languages — self-hosted, no rate limit, auto dark/light -->
 ![Top Languages](https://github.com/gwaisey/my-github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![Top Languages](https://github.com/gwaisey/my-github-stats/blob/generated/languages.svg#gh-light-mode-only)
