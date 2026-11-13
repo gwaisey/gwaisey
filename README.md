@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner using Capsule Render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Grace!&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:200509,50:5e0b1f,100:2a0f17&height=200&section=header&text=Hi,%20I'm%20Grace!&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 <!-- Typing Animation using readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+%40+BINUS+University;Application+Developer+Intern+%40+Polytron;Passionate+about+HCI+%26+UX+Design;Building+seamless+digital+experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C2506B&center=true&vCenter=true&width=600&lines=Computer+Science+%40+BINUS+University;Application+Developer+Intern+%40+Polytron;Passionate+about+HCI+%26+UX+Design;Building+seamless+digital+experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -83,9 +83,9 @@
 
 <!-- GitHub Streak — dark/light -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gwaisey&theme=default&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
-  <img src="https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=C2506B&fire=C2506B&currStreakLabel=C2506B"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gwaisey&theme=default&hide_border=true&ring=800020&fire=800020&currStreakLabel=800020"/>
+  <img src="https://streak-stats.demolab.com/?user=gwaisey&theme=tokyonight&hide_border=true&background=0D1117&ring=C2506B&fire=C2506B&currStreakLabel=C2506B"/>
 </picture>
 
 <br/>
@@ -113,6 +113,6 @@
 <div align="center">
 
 *"Designing the future, one line of code at a time."*
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2a0f17,50:5e0b1f,100:200509&height=120&section=footer)
 
 </div>
